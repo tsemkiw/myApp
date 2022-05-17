@@ -1,1 +1,1 @@
-# myApp
+# myAppInitialization of project
